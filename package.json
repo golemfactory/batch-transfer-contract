@@ -1,0 +1,22 @@
+{
+  "name": "batch-transfer",
+  "version": "1.0.0",
+  "description": "Polygon contract:\r 0x21cCe3a0F851394fcDD27b28c65232be98fc6Ce2",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorg-Dev/ya-multi-payments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thorg-Dev/ya-multi-payments/issues"
+  },
+  "homepage": "https://github.com/Thorg-Dev/ya-multi-payments#readme",
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
